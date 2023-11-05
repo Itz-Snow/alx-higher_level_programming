@@ -1,0 +1,1 @@
+#This is about soliving alx task in order to get used to the cencept called Data Structure in Python  
