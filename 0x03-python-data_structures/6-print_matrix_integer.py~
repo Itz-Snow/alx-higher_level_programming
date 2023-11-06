@@ -1,9 +1,0 @@
-#!/usr/bin/python3
-def print_matrix_integer(matrix=[[]]):
-    if matrix == "":
-        print("")
-    else:
-        for i in range(len(matrix)):
-            for int in matrix[i]:
-                print("{}".format(int), end = " ")
-            print("\n")
